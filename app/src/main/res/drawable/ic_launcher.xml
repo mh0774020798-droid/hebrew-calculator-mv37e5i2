@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Rounded Background -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M16,4 L80,4 A12,12 0 0,1 92,16 L92,80 A12,12 0 0,1 80,92 L16,92 A12,12 0 0,1 4,80 L4,16 A12,12 0 0,1 16,4 Z" />
+    <!-- Display area inside calculator -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M20,16 L76,16 A4,4 0 0,1 80,20 L80,34 A4,4 0 0,1 76,38 L20,38 A4,4 0 0,1 16,34 L16,20 A4,4 0 0,1 20,16 Z" />
+    <!-- Display bar -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M52,24 L72,24 A2,2 0 0,1 74,26 L74,28 A2,2 0 0,1 72,30 L52,30 A2,2 0 0,1 50,28 L50,26 A2,2 0 0,1 52,24 Z" />
+    <!-- Plus symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,47 L33,47 L33,43 A2,2 0 0,1 37,43 L37,47 L43,47 A2,2 0 0,1 43,51 L37,51 L37,55 A2,2 0 0,1 33,55 L33,51 L27,51 A2,2 0 0,1 27,47 Z" />
+    <!-- Minus symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,47 L71,47 A2,2 0 0,1 71,51 L57,51 A2,2 0 0,1 57,47 Z" />
+    <!-- Multiply symbol -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M28,68 L32,64 L35,67 L38,64 L42,68 L39,71 L42,74 L38,78 L35,75 L32,78 L28,74 L31,71 Z" />
+    <!-- Equals symbol -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M57,66 L71,66 A2,2 0 0,1 71,70 L57,70 A2,2 0 0,1 57,66 Z M57,74 L71,74 A2,2 0 0,1 71,78 L57,78 A2,2 0 0,1 57,74 Z" />
+</vector>

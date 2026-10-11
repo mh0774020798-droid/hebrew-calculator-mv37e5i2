@@ -1,0 +1,25 @@
+<resources>
+    <color name="bg_main">#F4F6F9</color>
+    <color name="display_bg">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_accent">#0284C7</color>
+    
+    <color name="btn_number_bg">#FFFFFF</color>
+    <color name="btn_number_pressed">#E2E8F0</color>
+    <color name="btn_number_text">#0F172A</color>
+
+    <color name="btn_op_bg">#E0F2FE</color>
+    <color name="btn_op_pressed">#BAE6FD</color>
+    <color name="btn_op_text">#0369A1</color>
+
+    <color name="btn_action_bg">#F1F5F9</color>
+    <color name="btn_action_pressed">#CBD5E1</color>
+    <color name="btn_action_text">#475569</color>
+
+    <color name="btn_equals_bg">#0284C7</color>
+    <color name="btn_equals_pressed">#0369A1</color>
+    <color name="btn_equals_text">#FFFFFF</color>
+
+    <color name="btn_delete_text">#E11D48</color>
+</resources>

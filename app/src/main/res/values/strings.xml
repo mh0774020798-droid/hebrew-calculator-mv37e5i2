@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">מחשבון</string>
+    <string name="history_title">היסטוריית חישובים</string>
+    <string name="clear_history">נקה היסטוריה</string>
+    <string name="history_empty">אין היסטוריה עדיין</string>
+    <string name="close">סגור</string>
+    <string name="error_divide_zero">לא ניתן לחלק באפס</string>
+    <string name="error_invalid_format">שגיאה</string>
+</resources>
